@@ -11,15 +11,14 @@ const Header = () => {
       <h1
         style={{
           fontSize: "6rem",
-          fontWeight: "600",
+          fontWeight: "900",
           marginBottom: "2rem",
           lineHeight: "1em",
-          color: "#ececec",
-          textTransform: "lowercase",
+          color: "#adadad",
           textAlign: "center",
         }}
       >
-        todos
+        Todo List
       </h1>
     </header>
   )
