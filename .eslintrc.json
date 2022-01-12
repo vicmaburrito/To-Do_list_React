@@ -24,6 +24,7 @@
   "ignorePatterns": [
     "dist/",
     "build/",
-    "src/components"
+    "src/classBased/components",
+    "src/functionBased/components"
   ]
 }
