@@ -4,6 +4,8 @@ import { Route, Switch } from 'react-router-dom';
 import TodosList from './TodosList';
 import InputTodo from './InputTodo';
 import Header from './Header';
+import About from '../pages/About';
+import NotMatch from '../pages/NotMatch';
 
 const TodoContainer = () => {
   const [todos, setTodos] = useState(getInitialTodos());
