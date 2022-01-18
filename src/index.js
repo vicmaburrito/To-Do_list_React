@@ -8,8 +8,8 @@ import './functionBased/App.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Navbar />
     <BrowserRouter>
+      <Navbar />
       <Routes>
         <Route path="/" element={<TodoContainer />} />
       </Routes>
