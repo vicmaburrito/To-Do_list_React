@@ -26,7 +26,7 @@ $ npm start
 
 ## Live Demo
 
-[Live Demo Link](#)
+[Live Demo Link](https://vicma-to-do-list-react.herokuapp.com/)
 
 ## Authors
 
